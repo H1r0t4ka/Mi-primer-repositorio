@@ -4,4 +4,4 @@ Estoy haciendo un curso en Platzi.
 
 Espero poder manejar Git de una forma facil y sencilla.
 
-Hoy es Tecnologo en Electronica.
+Hoy es Tecnologo en Electronica y hablaremos de su vida.
